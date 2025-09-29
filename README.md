@@ -46,4 +46,4 @@ icons/jetpackcompose/jetpackcompose-original-wordmark.svg
 
 |   |   |
 |:--------------:|:---------------:|
-| ![App Screenshot](https://photos.fife.usercontent.google.com/pw/AP1GczMetuNIg-AQXC16lZSwpYhMbnVzmU1PcPzolPg3aQs4EB2vOBxxnatw0A=w490-h878-s-no-gm?authuser=0) | ![App Screenshot](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=360,h=649,fit=crop,trim=0;12.277580071174377;0;0/mk3DXyWBRZCxzX6B/02_upscayl_3x_remacri-mk3DxxpRMKczOxXV.png) |
+
