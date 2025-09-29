@@ -24,12 +24,10 @@ ReadyChatAI SMS is a compact Android app (Kotlin + Jetpack Compose) that demonst
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/jetpackcompose/jetpackcompose-original-wordmark.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
 </div>
 
 ###
-
+icons/jetpackcompose/jetpackcompose-original-wordmark.svg
 
 <li>Usage:</li>
 
