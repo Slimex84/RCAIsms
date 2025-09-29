@@ -24,6 +24,9 @@ ReadyChatAI SMS is a compact Android app (Kotlin + Jetpack Compose) that demonst
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
