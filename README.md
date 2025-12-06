@@ -46,5 +46,5 @@ icons/jetpackcompose/jetpackcompose-original-wordmark.svg
 
 |   |   |
 |:--------------:|:---------------:|
-| ![App Screenshot](https://assets.zyrosite.com/cdn-cgi/image/format=auto,fit=crop/mk3DXyWBRZCxzX6B/captura-de-pantalla-2025-09-29-031133-YKb86kQnbPcvz2wd.png) | ![App Screenshot](https://assets.zyrosite.com/cdn-cgi/image/format=auto,fit=crop/mk3DXyWBRZCxzX6B/captura-de-pantalla-2025-09-29-031209-mP43nk0r7zU20ZOe.png) |
+| ![App Screenshot](https://www.slimexdev.com/_next/image?url=%2Fimages%2Frcai-1.png&w=1920&q=75) | ![App Screenshot](https://www.slimexdev.com/_next/image?url=%2Fimages%2Frcai-2.png&w=1920&q=75) |
 
